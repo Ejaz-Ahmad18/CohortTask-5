@@ -29,7 +29,7 @@ body {
 .card{
     height: 300px;
     width: 250px;
-    background-color: #fff;
+    background-color: white;
     border-radius: 10px;
       display: flex;
     align-items: center;
